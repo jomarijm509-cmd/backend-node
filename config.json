@@ -1,0 +1,19 @@
+{
+    "database": {
+        "host": "153.92.15.31",
+        "port": 3306,
+        "user": "u875409848_ramos",
+        "password": "2qW^sUg=M",
+        "database": "u875409848_ramos"
+    },
+    "secret": "SUPER_SECRET_STRING_ANY",
+    "emailFrom": "noreply@example.com",
+    "smtpOptions": {
+        "host": "sandbox.smtp.mailtrap.io",
+        "port": 2525,
+        "auth": {
+            "user": "1d5e85e85a573c",
+            "pass": "e74b496c50439b"
+        }
+    }
+}
